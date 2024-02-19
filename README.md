@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rajusrd
+- 👋 Hi, I’m Rajadurai
 - 👀 I’m interested in Creating Websites
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me Whatsapp 9629705130
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
